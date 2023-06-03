@@ -1,6 +1,6 @@
-<h1>Hi, I'm Muritala, an <a href="https://muritalaolanrewaju.com">IT Professional</a>☺</h1>
+<h1>Hi, I'm Muritala, an <a href="https://muritalaolanrewaju.com">Cyber Security Engineer</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology & Cyber Security Projects:</h2>
 
   - [Securing and Hardening a Linux System](https://github.com/muritalatolanrewaju/Securing-and-Hardening-a-Linux-System)
   - [Running a Containerized Application with Docker](https://github.com/muritalatolanrewaju/Running-Containerized-Applications-with-Docker)
