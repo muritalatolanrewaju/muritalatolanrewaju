@@ -1,4 +1,4 @@
-<h1>Hi, I'm Muritala, a <a href="https://muritalaolanrewaju.com">Cyber Security Engineer</a>☺</h1>
+<h1>Hi, I'm Muritala, a <a href="https://muritalaolanrewaju.com">Cyber Security Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology & Cyber Security Projects:</h2>
 
