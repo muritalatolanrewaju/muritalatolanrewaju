@@ -22,7 +22,7 @@ I've been interested in cyber security for 3+ years with a specialization in App
 [![Political Party Guesser: A Java Program for Understanding Political Affiliation](https://github-readme-stats.vercel.app/api/pin/?username=muritalatolanrewaju&repo=Political-Party-Guesser-A-Java-Program-for-Understanding-Political-Affiliation&title_color=0891b2&text_color=22c55e&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/muritalatolanrewaju/Political-Party-Guesser-A-Java-Program-for-Understanding-Political-Affiliation)
 <br clear="left"/>
 
-## Skills
+## Skills & Tools
 
 <p align="left">
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
