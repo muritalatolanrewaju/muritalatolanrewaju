@@ -1,8 +1,8 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muritala Olanrewaju
+# Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Muritala!
 
 ## Cybersecurity Engineer 💻
 
-I've been interested in cyber security for 3+ years with a specialization in Application Security, and Cybersecurity Frameworks & Standards. I'm now honing my skillset in cloud security ☁️.
+With over three years of fascination with cybersecurity, my specialty lies in Application Security and ensuring adherence to Cybersecurity Frameworks & Standards. I'm expanding my expertise into cloud security ☁️, exploring innovative methods to secure complex systems. Stay tuned for exciting projects!
 
 - 🖥️  Check out my portfolio at [muritalaolanrewaju.com](http://muritalaolanrewaju.com)
 - ✉️  Reach out to me at [contact@muritalaolanrewaju.com](mailto:contact@muritalaolanrewaju.com)
