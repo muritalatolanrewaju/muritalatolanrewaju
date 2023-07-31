@@ -4,7 +4,7 @@
 
 With over three years of fascination with cybersecurity, my specialty lies in Application Security and ensuring adherence to Cybersecurity Frameworks & Standards. I'm expanding my expertise into cloud security ☁️, exploring innovative methods to secure complex systems. Stay tuned for exciting projects!
 
-- 🖥️  Check out my portfolio at [muritalaolanrewaju.com](http://muritalaolanrewaju.com)
+- 🖥️  Check out my portfolio at [MuritalaOlanrewaju.com](http://muritalaolanrewaju.com)
 - ✉️  Reach out to me at [contact@muritalaolanrewaju.com](mailto:contact@muritalaolanrewaju.com)
 - 🧠  Currently learning: Cloud Security
 - 🤝  Open for collaborations in cybersecurity projects
