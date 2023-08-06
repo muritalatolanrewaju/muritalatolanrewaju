@@ -1,6 +1,6 @@
 # Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Muritala!
 
-## Cybersecurity Engineer 💻
+## Cyber Security Engineer 💻
 
 With over three years of fascination with cybersecurity, my specialty lies in Application Security and ensuring adherence to Cybersecurity Frameworks & Standards. I'm expanding my expertise into cloud security ☁️, exploring innovative methods to secure complex systems. Stay tuned for exciting projects!
 
