@@ -2,7 +2,7 @@
 
 ## Cyber Security Engineer 💻
 
-With over three years of fascination with cybersecurity, my specialty lies in Application Security and ensuring adherence to Cybersecurity Frameworks & Standards. I'm expanding my expertise into cloud security ☁️, exploring innovative methods to secure complex systems. Stay tuned for exciting projects!
+With over three years of fascination with cybersecurity, my specialty lies in Engineering, Operations, and Application Security. I'm expanding my expertise into cloud security ☁️, exploring innovative methods to secure complex systems. Stay tuned for exciting projects!
 
 - 🖥️  Check out my portfolio at [MuritalaOlanrewaju.com](http://muritalaolanrewaju.com)
 - ✉️  Reach out to me at [Contact@MuritalaOlanrewaju.com](mailto:contact@muritalaolanrewaju.com)
