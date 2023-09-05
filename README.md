@@ -11,19 +11,31 @@ With over three years of fascination with cybersecurity, my specialty lies in En
   
 ## Top Repositories
 
-### 👨‍💻 Information Technology & Cyber Security Projects:
-
-[![Securing and Hardening a Linux System](https://github-readme-stats.vercel.app/api/pin/?username=muritalatolanrewaju&repo=Securing-and-Hardening-a-Linux-System&title_color=0891b2&text_color=22c55e&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/muritalatolanrewaju/Securing-and-Hardening-a-Linux-System) [![Running Containerized Applications with Docker](https://github-readme-stats.vercel.app/api/pin/?username=muritalatolanrewaju&repo=Running-Containerized-Applications-with-Docker&title_color=0891b2&text_color=22c55e&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/muritalatolanrewaju/Running-Containerized-Applications-with-Docker)
-
 ### 👨‍💻 Software Development Projects:
 
-[![Cloud-Deployed-Dockerized-Hotel-Scheduler-Spring-Angular](https://github-readme-stats.vercel.app/api/pin/?username=muritalatolanrewaju&repo=Cloud-Deployed-Dockerized-Hotel-Scheduler-Spring-Angular&title_color=0891b2&text_color=22c55e&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/muritalatolanrewaju/Cloud-Deployed-Dockerized-Hotel-Scheduler-Spring-Angular) [![Breast-Cancer-Diagnosis-Predictor](https://github-readme-stats.vercel.app/api/pin/?username=muritalatolanrewaju&repo=Breast-Cancer-Diagnosis-Predictor&title_color=0891b2&text_color=22c55e&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/muritalatolanrewaju/Breast-Cancer-Diagnosis-Predictor)
+- [Cloud Deployed Dockerized Hotel Scheduler Spring Angular](https://github.com/muritalatolanrewaju/Cloud-Deployed-Dockerized-Hotel-Scheduler-Spring-Angular)
+- [Package Delivery Optimization Using-TSP](https://github.com/muritalatolanrewaju/Package-Delivery-Optimization-using-TSP)
+- [Travel Agency Spring MVP](https://github.com/muritalatolanrewaju/Travel-Agency-Spring-MVP)
+- [Web Based Spring Inventory Application](https://github.com/muritalatolanrewaju/[Web-Based-Spring-Inventory-Applicatio)
 
-[![Package-Delivery-Optimization-using-TSP](https://github-readme-stats.vercel.app/api/pin/?username=muritalatolanrewaju&repo=Package-Delivery-Optimization-using-TSP&title_color=0891b2&text_color=22c55e&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/muritalatolanrewaju/Package-Delivery-Optimization-using-TSP) [![Travel-Agency-Spring-MVP](https://github-readme-stats.vercel.app/api/pin/?username=muritalatolanrewaju&repo=Travel-Agency-Spring-MVP&title_color=0891b2&text_color=22c55e&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/muritalatolanrewaju/Travel-Agency-Spring-MVP)
+<!---[![Cloud-Deployed-Dockerized-Hotel-Scheduler-Spring-Angular](https://github-readme-stats.vercel.app/api/pin/?username=muritalatolanrewaju&repo=Cloud-Deployed-Dockerized-Hotel-Scheduler-Spring-Angular&title_color=0891b2&text_color=22c55e&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/muritalatolanrewaju/Cloud-Deployed-Dockerized-Hotel-Scheduler-Spring-Angular) [![Breast-Cancer-Diagnosis-Predictor](https://github-readme-stats.vercel.app/api/pin/?username=muritalatolanrewaju&repo=Breast-Cancer-Diagnosis-Predictor&title_color=0891b2&text_color=22c55e&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/muritalatolanrewaju/Breast-Cancer-Diagnosis-Predictor)-->
 
-[![Web-Based-Spring-Inventory-Application](https://github-readme-stats.vercel.app/api/pin/?username=muritalatolanrewaju&repo=Web-Based-Spring-Inventory-Application&title_color=0891b2&text_color=22c55e&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/muritalatolanrewaju/Web-Based-Spring-Inventory-Application)
+<!---[![Package-Delivery-Optimization-using-TSP](https://github-readme-stats.vercel.app/api/pin/?username=muritalatolanrewaju&repo=Package-Delivery-Optimization-using-TSP&title_color=0891b2&text_color=22c55e&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/muritalatolanrewaju/Package-Delivery-Optimization-using-TSP) [![Travel-Agency-Spring-MVP](https://github-readme-stats.vercel.app/api/pin/?username=muritalatolanrewaju&repo=Travel-Agency-Spring-MVP&title_color=0891b2&text_color=22c55e&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/muritalatolanrewaju/Travel-Agency-Spring-MVP)-->
 
-<br clear="left"/>
+<!---[![Web-Based-Spring-Inventory-Application](https://github-readme-stats.vercel.app/api/pin/?username=muritalatolanrewaju&repo=Web-Based-Spring-Inventory-Application&title_color=0891b2&text_color=22c55e&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/muritalatolanrewaju/Web-Based-Spring-Inventory-Application)
+
+<br clear="left"/>-->
+
+### 👨‍💻 Machine Learning & AI Projects:
+
+- [Breast Cancer Diagnosis Predictor](https://github.com/muritalatolanrewaju/Breast-Cancer-Diagnosis-Predictor)
+
+### 👨‍💻 Information Technology & Cyber Security Projects:
+
+- [Running Containerized Applications with Docker](https://github.com/muritalatolanrewaju/Running-Containerized-Applications-with-Docker)
+- [Securing and Hardening a Linux System](https://github.com/muritalatolanrewaju/Securing-and-Hardening-a-Linux-System)
+
+<!---[![Securing and Hardening a Linux System](https://github-readme-stats.vercel.app/api/pin/?username=muritalatolanrewaju&repo=Securing-and-Hardening-a-Linux-System&title_color=0891b2&text_color=22c55e&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/muritalatolanrewaju/Securing-and-Hardening-a-Linux-System) [![Running Containerized Applications with Docker](https://github-readme-stats.vercel.app/api/pin/?username=muritalatolanrewaju&repo=Running-Containerized-Applications-with-Docker&title_color=0891b2&text_color=22c55e&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/muritalatolanrewaju/Running-Containerized-Applications-with-Docker)-->
 
 ## Skills & Tools
 
@@ -47,9 +59,9 @@ With over three years of fascination with cybersecurity, my specialty lies in En
 
 ## My GitHub Statistics
 
-<a href="https://github.com/muritalatolanrewaju" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muritalatolanrewaju&langs_count=10&title_color=0891b2&text_color=22c55e&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most Used Languages" /></a>
+<!---<a href="https://github.com/muritalatolanrewaju" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muritalatolanrewaju&langs_count=10&title_color=0891b2&text_color=22c55e&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most Used Languages" /></a>-->
 
-<a href="http://www.github.com/muritalatolanrewaju"><img src="https://github-readme-stats.vercel.app/api?username=muritalatolanrewaju&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=22c55e&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="muritalatolanrewaju's GitHub stats" /></a>
+<!---<a href="http://www.github.com/muritalatolanrewaju"><img src="https://github-readme-stats.vercel.app/api?username=muritalatolanrewaju&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=22c55e&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="muritalatolanrewaju's GitHub stats" /></a>-->
 
 <a href="http://www.github.com/muritalatolanrewaju"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muritalatolanrewaju&stroke=22c55e&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=22c55e&currStreakLabel=0891b2&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
 
