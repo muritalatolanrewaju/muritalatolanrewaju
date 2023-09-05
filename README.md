@@ -14,7 +14,7 @@ With over three years of fascination with cybersecurity, my specialty lies in En
 ### 👨‍💻 Software Development Projects:
 
 - [Cloud Deployed Dockerized Hotel Scheduler Spring Angular](https://github.com/muritalatolanrewaju/Cloud-Deployed-Dockerized-Hotel-Scheduler-Spring-Angular)
-- [Package Delivery Optimization Using-TSP](https://github.com/muritalatolanrewaju/Package-Delivery-Optimization-using-TSP)
+- [Package Delivery Optimization--TSP](https://github.com/muritalatolanrewaju/Package-Delivery-Optimization-using-TSP)
 - [Travel Agency Spring MVP](https://github.com/muritalatolanrewaju/Travel-Agency-Spring-MVP)
 - [Web Based Spring Inventory Application](https://github.com/muritalatolanrewaju/[Web-Based-Spring-Inventory-Applicatio)
 
