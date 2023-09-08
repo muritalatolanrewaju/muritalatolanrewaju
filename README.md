@@ -2,13 +2,14 @@
 
 ## Cyber Security Engineer 💻
 
-- 🛡️ Expertise in DevSecOps, integrating Engineering, Operations, and Application Security.
-- 🔍 Just started exploring the world of AI and machine learning.
-- ☁️ Diving into the nexus of cloud security and AI-driven solutions.
-- 🚀 Eager to innovate and contribute at the intersection of security and AI. Stay tuned for exciting projects!
-- 🖥️  Check out my portfolio at [MuritalaOlanrewaju.com](http://muritalaolanrewaju.com)
-- ✉️  Reach out to me at [Contact@MuritalaOlanrewaju.com](mailto:contact@muritalaolanrewaju.com)
-- 🤝  Open for collaborations in cybersecurity projects
+- 🛡️ Specializing in DevSecOps with a focus on Engineering, Operations, and Application Security integration.
+- 🔍 Newly venturing into the fascinating realms of AI and machine learning.
+- ☁️ Probing the synergy between cloud security and AI-driven strategies.
+- 🚀 Passionate about pioneering innovations at the crossroads of security and AI. Keep an eye out for upcoming projects!
+- 🤝  Keen on teaming up for cybersecurity initiatives.
+- 🖥️  Explore my work at [MuritalaOlanrewaju.com](http://muritalaolanrewaju.com)
+- ✉️  Connect with me: [Contact@MuritalaOlanrewaju.com](mailto:contact@muritalaolanrewaju.com)
+
   
 ## Top Repositories
 
