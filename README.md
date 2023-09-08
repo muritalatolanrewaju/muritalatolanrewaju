@@ -2,11 +2,12 @@
 
 ## Cyber Security Engineer 💻
 
-With over three years of fascination with cybersecurity, my specialty lies in Engineering, Operations, and Application Security. I'm expanding my expertise into cloud security ☁️, exploring innovative methods to secure complex systems. Stay tuned for exciting projects!
-
+- 🛡️ Expertise in DevSecOps, integrating Engineering, Operations, and Application Security.
+- 🔍 Just started exploring the world of AI and machine learning.
+- ☁️ Diving into the nexus of cloud security and AI-driven solutions.
+- 🚀 Eager to innovate and contribute at the intersection of security and AI. Stay tuned for exciting projects!
 - 🖥️  Check out my portfolio at [MuritalaOlanrewaju.com](http://muritalaolanrewaju.com)
 - ✉️  Reach out to me at [Contact@MuritalaOlanrewaju.com](mailto:contact@muritalaolanrewaju.com)
-- 🧠  Currently learning: Cloud Security
 - 🤝  Open for collaborations in cybersecurity projects
   
 ## Top Repositories
