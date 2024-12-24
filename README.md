@@ -7,7 +7,7 @@
 - ☁️ Probing the synergy between cloud security and AI-driven strategies.
 - 🚀 Passionate about pioneering innovations at the crossroads of security and AI. Keep an eye out for upcoming projects!
 - 🤝  Keen on teaming up for cybersecurity initiatives.
-- 🖥️  Explore my work at [MuritalaOlanrewaju.com](http://muritalaolanrewaju.com)
+- 🖥️  Explore my work at [MuritalaOlanrewaju.com](https://muritalaolanrewaju.com)
 - ✉️  Connect with me: [Contact@MuritalaOlanrewaju.com](mailto:contact@muritalaolanrewaju.com)
 
   
